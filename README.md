@@ -1,14 +1,18 @@
 <p align="center"><img src="icon.png"/></p>
 
-# Starter Kit City Builder
+# Starter Kit City Builder (C#)
 
-This package includes a basic template for a 3D city builder in Godot 4.1.1.stable.official. Includes features like;
+This package includes a basic template for a 3D city builder in C# for Godot 4.1.1.stable.official. Includes features like;
 
 - Building and removing structures
 - Smooth camera controls
 - Dynamic MeshLibrary creation
 - Saving/loading
 - Sprites and 3D Models _(CC0 licensed)_
+
+### changes
+- added a slight transparency to the selected structure
+- lowered the selected structure to be closer to the floor (was too high in my opinion)
 
 ### Screenshot
 
